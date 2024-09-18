@@ -3,6 +3,11 @@
 EDUNITY is a comprehensive online learning platform designed to provide accessible, engaging, and high-quality educational content to learners worldwide.
 Our platform offers a range of courses across various subjects, enabling users to enhance their skills and knowledge at their own pace.
 
+## Prototype
+
+Check out our interactive prototype built with Figma: [EdUnity](https://www.figma.com/proto/5QEcr0SpENYQZeGOLDHJzZ/EdUnity?node-id=0-1&t=hcdR3vld6AeF836N-1)<br>
+*This prototype showcases the user flow and key features of the Edunity platform.*
+
 ## Table of Contents
 
 - Project Overview
