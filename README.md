@@ -92,3 +92,6 @@ Project Components
 
 
 **These challenges pushed our team to innovate and think creatively, ultimately leading to propose a more robust and user-friendly platform.**
+## About the Author
+
+Revati Ganorkar | Product Enthusiast | [LinkedIn](https://www.linkedin.com/in/revati-ganorkar)
