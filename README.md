@@ -1,7 +1,7 @@
 # EdUnity-Elevate-Your-Online-Learning-Experience
 
 EDUNITY is a comprehensive online learning platform designed to provide accessible, engaging, and high-quality educational content to learners worldwide.
-Our platform offers a range of courses across various subjects, enabling users to enhance their skills and knowledge at their own pace.
+
 
 ## Prototype
 
