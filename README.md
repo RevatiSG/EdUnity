@@ -30,7 +30,7 @@ EDUNITY aims to revolutionize online education by providing:
 
 Project Components
 
-1. Project Charter
+1. [Project Charter and Timeline: Confluence](https://product-manager-revati.atlassian.net/wiki/x/AYAI)
 2. Business Process Models:
   
     - BPMN Diagram
